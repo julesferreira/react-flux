@@ -1,7 +1,8 @@
 {
-	"name": "react-flux-boilerplate",
+	"name": "react-flux",
 	"version": "0.0.0",
-	"description": "react-flux-boilerplate",
+	"description": "react-flux boilerplate",
+	"repository": "https://github.com/julesferreira/react-flux",
 	"main": "js/app.js",
 	"dependencies": {
 		"flux": "^2.0.1",
